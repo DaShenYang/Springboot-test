@@ -14,6 +14,8 @@ public class SpringbootTestApplicationTests {
     }
 
 
+    //Git管理的test项目
+
     @Test
     public void tesLength() {
         //数组有length属性
