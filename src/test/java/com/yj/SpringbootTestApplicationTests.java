@@ -29,5 +29,11 @@ public class SpringbootTestApplicationTests {
 
     }
 
+
+    @Test
+    public void time() {
+        System.out.println(System.currentTimeMillis());//1550562575252
+    }
+
 }
 
