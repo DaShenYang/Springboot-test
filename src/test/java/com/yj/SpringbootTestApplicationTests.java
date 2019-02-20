@@ -35,5 +35,16 @@ public class SpringbootTestApplicationTests {
         System.out.println(System.currentTimeMillis());//1550562575252
     }
 
+
+    @Test
+    public void length() {
+        int[] a = {1, 2, 3};
+        System.out.println(a.length);
+
+
+        String str = "abc";
+        System.out.println(str.length());
+    }
+
 }
 
